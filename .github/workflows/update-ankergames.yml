@@ -22,7 +22,7 @@ concurrency:
 jobs:
   update-catalog:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 60
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -35,8 +35,48 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Prepare metadata cache
+        run: mkdir -p .cache
+
+      - name: Restore metadata checkpoint
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: ankergames-metadata-${{ github.run_id }}
+          restore-keys: |
+            ankergames-metadata-
+
       - name: Generate catalog
-        run: python export_ankergames.py --output ankergames.json --workers 4
+        run: >-
+          python export_ankergames.py
+          --output ankergames.json
+          --cache .cache/ankergames-metadata.jsonl
+          --workers 1
+          --request-delay 0.5
+          --retries 4
+
+      - name: Save metadata checkpoint
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: ankergames-metadata-${{ github.run_id }}
+
+      - name: Validate catalog
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+
+          catalog = json.loads(Path("ankergames.json").read_text(encoding="utf-8"))
+          downloads = catalog.get("downloads")
+          required = {"title", "uris", "uploadDate", "fileSize", "descriptionHtml"}
+          assert catalog.get("name") == "AnkerGames"
+          assert isinstance(downloads, list) and downloads
+          assert all(set(item) == required for item in downloads)
+          assert all(item["descriptionHtml"].startswith("<a href=") for item in downloads)
+          print(f"Validated {len(downloads)} catalog entries.")
+          PY
 
       - name: Commit catalog when changed
         shell: bash
