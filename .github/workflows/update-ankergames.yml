@@ -1,0 +1,44 @@
+name: Update Anchor Games catalog
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ankergames-catalog-update
+  cancel-in-progress: false
+
+jobs:
+  update-catalog:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate catalog
+        run: python export_ankergames.py --output ankergames.json --workers 4
+
+      - name: Commit catalog when changed
+        shell: bash
+        run: |
+          git add ankergames.json
+          if git diff --cached --quiet; then
+            echo "Catalog is already up to date."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update Anchor Games catalog"
+          git push
