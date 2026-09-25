@@ -11,8 +11,14 @@ GitHub Actions schedules use UTC and can be delayed during periods of high platf
 ## Local usage
 
 ```bash
-python export_ankergames.py --output ankergames.json
+python export_ankergames.py \
+  --output ankergames.json \
+  --workers 1 \
+  --request-delay 0.5 \
+  --cache .cache/ankergames-metadata.jsonl
 ```
+
+The exporter uses a global rate limiter, honors `Retry-After`, retries transient errors with exponential backoff, and checkpoints each successful game page to the JSONL cache. A failed run can resume from that cache on the next execution. It fails instead of publishing fallback metadata unless `--allow-partial` is explicitly passed.
 
 The generated object follows the reference `name`/`downloads` schema. Public sitemap and detail pages provide the URL, update date, display version, build, and file size. Download `uris` are not exposed by the public pages, so they are emitted as empty arrays unless a previous JSON is supplied with `--existing-json`.
 
