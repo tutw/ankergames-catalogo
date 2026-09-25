@@ -1,6 +1,11 @@
 name: Update Anchor Games catalog
 
 on:
+  push:
+    branches:
+      - main
+    paths-ignore:
+      - "ankergames.json"
   schedule:
     - cron: "0 3 * * *"
     - cron: "0 15 * * *"
