@@ -15,3 +15,9 @@ python export_ankergames.py --output ankergames.json
 ```
 
 The generated object follows the reference `name`/`downloads` schema. Public sitemap and detail pages provide the URL, update date, display version, build, and file size. Download `uris` are not exposed by the public pages, so they are emitted as empty arrays unless a previous JSON is supplied with `--existing-json`.
+
+After the first successful workflow run, the public catalog is available at:
+
+```text
+https://raw.githubusercontent.com/tutw/ankergames-catalogo/main/ankergames.json
+```
