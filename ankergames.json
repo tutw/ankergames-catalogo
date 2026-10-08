@@ -2,10 +2,10 @@
   "name": "AnkerGames",
   "downloads": [
     {
-      "title": "007 First Light - V 1.3.0 / Build 251800",
+      "title": "007 First Light - V 1.3.1 / Build 251800",
       "uris": [],
-      "uploadDate": "2026-10-01T18:28:42Z",
-      "fileSize": "50.7 GB",
+      "uploadDate": "2026-10-08T09:17:25Z",
+      "fileSize": "50.6 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/007-first-light\">Website with instructions for launching the game</a>"
     },
     {
@@ -72,16 +72,16 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/9-bit-armies-a-bit-too-far\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "9 Days - V 1.44 / Build 10919019",
+      "title": "9 Days - V 1.44 / Build 25632050",
       "uris": [],
-      "uploadDate": "2026-10-03T08:03:41Z",
+      "uploadDate": "2026-10-08T08:10:02Z",
       "fileSize": "24.0 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/9-days\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "9 Kings - V 0.9.6.5 / Build 24662442",
+      "title": "9 Kings - V 0.9.8.2 / Build 24662442",
       "uris": [],
-      "uploadDate": "2026-09-23T07:01:51Z",
+      "uploadDate": "2026-10-08T08:30:11Z",
       "fileSize": "0.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/9-kings\">Website with instructions for launching the game</a>"
     },
@@ -394,9 +394,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/aliens-fireteam-elite-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "ALL WILL FALL - V 1.5.1f1 / Build 24453371",
+      "title": "ALL WILL FALL - V 1.5.2f1 / Build 24453371",
       "uris": [],
-      "uploadDate": "2026-10-03T12:52:26Z",
+      "uploadDate": "2026-10-08T07:42:30Z",
       "fileSize": "2.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/all-will-fall\">Website with instructions for launching the game</a>"
     },
@@ -485,10 +485,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/another-eden-begins\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Antivirus Survivors 2003 Professional - Build 25578107",
+      "title": "Antivirus Survivors 2003 Professional - Build 25781507",
       "uris": [],
-      "uploadDate": "2026-10-03T02:20:34Z",
-      "fileSize": "0.2 GB",
+      "uploadDate": "2026-10-08T08:23:38Z",
+      "fileSize": "0.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/antivirus-survivors-2003-professional\">Website with instructions for launching the game</a>"
     },
     {
@@ -744,6 +744,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/atlyss\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Atomfall - V 1.2.2 / Build 4253449",
+      "uris": [],
+      "uploadDate": "2026-10-08T01:31:19Z",
+      "fileSize": "59 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/atomfall\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Atomic Heart - Build 24534183",
       "uris": [],
       "uploadDate": "2026-08-03T22:10:57Z",
@@ -793,10 +800,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/avatar-frontiers-of-pandora\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Avatar Legends: The Fighting Game - V 4545 / Build 23538523",
+      "title": "Avatar Legends: The Fighting Game - V 6743 / Build 25646003",
       "uris": [],
-      "uploadDate": "2026-09-03T08:44:11Z",
-      "fileSize": "5.4 GB",
+      "uploadDate": "2026-10-08T08:45:06Z",
+      "fileSize": "5.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/avatar-legends-the-fighting-game\">Website with instructions for launching the game</a>"
     },
     {
@@ -1817,7 +1824,7 @@
     {
       "title": "Car Dealer Simulator - V 0.1.0.0 5272 / Build 22097504",
       "uris": [],
-      "uploadDate": "2026-10-07T08:06:36Z",
+      "uploadDate": "2026-10-08T08:19:49Z",
       "fileSize": "19.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/car-dealer-simulator\">Website with instructions for launching the game</a>"
     },
@@ -2347,9 +2354,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/coral-island\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Core Keeper - V 1.3.0.4 / Build 25172482",
+      "title": "Core Keeper - V 1.3.0.5 / Build 25172482",
       "uris": [],
-      "uploadDate": "2026-10-01T08:40:40Z",
+      "uploadDate": "2026-10-08T09:32:15Z",
       "fileSize": "1.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/core-keeper\">Website with instructions for launching the game</a>"
     },
@@ -2846,7 +2853,7 @@
     {
       "title": "Dead Space - Build 10602756",
       "uris": [],
-      "uploadDate": "2026-07-28T07:41:52Z",
+      "uploadDate": "2026-10-08T07:04:57Z",
       "fileSize": "35 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dead-space\">Website with instructions for launching the game</a>"
     },
@@ -3502,9 +3509,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dread-dawn\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Dread Delusion - V 1.3.5 / Build 25069298",
+      "title": "Dread Delusion - V 1.3.6 / Build 25069298",
       "uris": [],
-      "uploadDate": "2026-10-02T09:17:50Z",
+      "uploadDate": "2026-10-08T07:39:51Z",
       "fileSize": "0.7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dread-delusion\">Website with instructions for launching the game</a>"
     },
@@ -3672,7 +3679,7 @@
     {
       "title": "DYNASTY WARRIORS 3: Complete Edition Remastered - Build 24984920",
       "uris": [],
-      "uploadDate": "2026-10-01T07:31:12Z",
+      "uploadDate": "2026-10-07T21:05:35Z",
       "fileSize": "31 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dynasty-warriors-3-complete-edition-remastered\">Website with instructions for launching the game</a>"
     },
@@ -3838,9 +3845,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/ender-magnolia-bloom-in-the-mist\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "ENDLESS Legend 2 - V 1.0.172-S35 / Build 3192355",
+      "title": "ENDLESS Legend 2 - V 1.0.180-S35 / Build 3192355",
       "uris": [],
-      "uploadDate": "2026-10-07T08:42:22Z",
+      "uploadDate": "2026-10-08T09:07:01Z",
       "fileSize": "12.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/endless-legend-2\">Website with instructions for launching the game</a>"
     },
@@ -4727,10 +4734,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/forever-skies\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "ForgeTax - Build 25755699",
+      "title": "ForgeTax - Build 25771041",
       "uris": [],
-      "uploadDate": "2026-10-07T06:34:46Z",
-      "fileSize": "0.1 GB",
+      "uploadDate": "2026-10-08T07:51:03Z",
+      "fileSize": "0.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/forgetax\">Website with instructions for launching the game</a>"
     },
     {
@@ -5324,7 +5331,7 @@
     {
       "title": "Graveyard Keeper 2 - V 1.009.1 / Build 25039879",
       "uris": [],
-      "uploadDate": "2026-10-07T10:16:30Z",
+      "uploadDate": "2026-10-08T07:06:35Z",
       "fileSize": "1.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/graveyard-keeper-2\">Website with instructions for launching the game</a>"
     },
@@ -5917,10 +5924,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/house-flipper-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "House Flipper Remastered Collection - V 1.26274 / Build 21670417",
+      "title": "House Flipper Remastered Collection - V 1.26280 / Build 21670417",
       "uris": [],
-      "uploadDate": "2026-10-02T07:45:51Z",
-      "fileSize": "12.7 GB",
+      "uploadDate": "2026-10-08T07:56:32Z",
+      "fileSize": "12.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/house-flipper-remastered-collection\">Website with instructions for launching the game</a>"
     },
     {
@@ -6071,9 +6078,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/i-have-no-mouth-and-i-must-scream\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "I Know a Guy: Shady Life Simulator - Build 25605974",
+      "title": "I Know a Guy: Shady Life Simulator - Build 25783846",
       "uris": [],
-      "uploadDate": "2026-10-01T02:00:00Z",
+      "uploadDate": "2026-10-08T09:10:12Z",
       "fileSize": "1.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/i-know-a-guy-shady-life-simulator\">Website with instructions for launching the game</a>"
     },
@@ -6743,9 +6750,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/labyrinthine\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Last Epoch - V 1.5.1.2 / Build 10398757",
+      "title": "Last Epoch - V 1.5.2 / Build 10398757",
       "uris": [],
-      "uploadDate": "2026-10-05T08:49:32Z",
+      "uploadDate": "2026-10-08T08:31:14Z",
       "fileSize": "21.6 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/last-epoch\">Website with instructions for launching the game</a>"
     },
@@ -7681,9 +7688,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/megaloot\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Megastore Simulator - V 0.7.2 / Build 22097504",
+      "title": "Megastore Simulator - V 0.8.0 / Build 22097504",
       "uris": [],
-      "uploadDate": "2026-08-19T06:30:40Z",
+      "uploadDate": "2026-10-08T08:05:19Z",
       "fileSize": "3.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/megastore-simulator\">Website with instructions for launching the game</a>"
     },
@@ -7704,7 +7711,7 @@
     {
       "title": "MEMORIAPOLIS - V 1.6.10 / Build 24453371",
       "uris": [],
-      "uploadDate": "2026-07-27T12:07:38Z",
+      "uploadDate": "2026-10-08T09:34:57Z",
       "fileSize": "3.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/memoriapolis\">Website with instructions for launching the game</a>"
     },
@@ -8451,10 +8458,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/neon-abyss\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Neon Abyss 2 - V 2026.9.1.6 / Build 25191271",
+      "title": "Neon Abyss 2 - V 2026.10.8 / Build 25191271",
       "uris": [],
-      "uploadDate": "2026-09-04T11:13:39Z",
-      "fileSize": "1.2 GB",
+      "uploadDate": "2026-10-08T07:57:48Z",
+      "fileSize": "1.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/neon-abyss-2\">Website with instructions for launching the game</a>"
     },
     {
@@ -8752,10 +8759,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/omori\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Once Upon A KATAMARI - V 1.1.1 / Build 20411670",
+      "title": "Once Upon A KATAMARI - V 2.0.1 / Build 20411670",
       "uris": [],
-      "uploadDate": "2026-09-03T11:58:21Z",
-      "fileSize": "3.2 GB",
+      "uploadDate": "2026-10-08T09:32:29Z",
+      "fileSize": "3.6 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/once-upon-a-katamari\">Website with instructions for launching the game</a>"
     },
     {
@@ -9354,9 +9361,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/poker-night-at-the-inventory\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Police Chief Simulator - V 4177 / Build 22097504",
+      "title": "Police Chief Simulator - V 4187 / Build 22097504",
       "uris": [],
-      "uploadDate": "2026-10-07T08:02:02Z",
+      "uploadDate": "2026-10-08T08:31:08Z",
       "fileSize": "16.4 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/police-chief-simulator\">Website with instructions for launching the game</a>"
     },
@@ -9564,10 +9571,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/promise-mascot-agency\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Pronoun Palace - V 1.2.10 / Build 25333770",
+      "title": "Pronoun Palace - V 1.2.11 / Build 25333770",
       "uris": [],
-      "uploadDate": "2026-10-04T00:30:00Z",
-      "fileSize": "0.3 GB",
+      "uploadDate": "2026-10-08T07:36:10Z",
+      "fileSize": "0.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/pronoun-palace\">Website with instructions for launching the game</a>"
     },
     {
@@ -10509,10 +10516,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/scritchy-scratchy\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "SCUM - V 1.3.4.0.160241 / Build 25632050",
+      "title": "SCUM - V 1.3.4.1.161318 / Build 25632050",
       "uris": [],
-      "uploadDate": "2026-10-06T09:12:33Z",
-      "fileSize": "39.9 GB",
+      "uploadDate": "2026-10-08T09:15:51Z",
+      "fileSize": "41.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/scum\">Website with instructions for launching the game</a>"
     },
     {
@@ -11062,6 +11069,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/sonic-mania\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Sonic & SEGA All-Stars Racing - Build 462",
+      "uris": [],
+      "uploadDate": "2026-10-08T01:30:00Z",
+      "fileSize": "4.4 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/sonic-sega-all-stars-racing\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Sons Of The Forest - V 53951 / Build 20229486",
       "uris": [],
       "uploadDate": "2026-09-05T10:12:09Z",
@@ -11524,9 +11538,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/still-wakes-the-deep\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Stonemachia - Build 25747762",
+      "title": "Stonemachia - Build 25775314",
       "uris": [],
-      "uploadDate": "2026-10-07T10:44:12Z",
+      "uploadDate": "2026-10-08T08:57:52Z",
       "fileSize": "11.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/stonemachia\">Website with instructions for launching the game</a>"
     },
@@ -11825,10 +11839,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/surgeon-simulator-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "SurrounDead - V 0.7.1g / Build 25144234",
+      "title": "SurrounDead - V 0.8.0 / Build 25711265",
       "uris": [],
-      "uploadDate": "2026-04-15T20:47:25Z",
-      "fileSize": "1.4 GB",
+      "uploadDate": "2026-10-08T09:17:56Z",
+      "fileSize": "1.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/surroundead\">Website with instructions for launching the game</a>"
     },
     {
@@ -11972,6 +11986,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tales-of-xillia-remastered\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Tangle Tower - Build 12269797",
+      "uris": [],
+      "uploadDate": "2026-10-08T00:30:00Z",
+      "fileSize": "0.4 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/tangle-tower\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Tap Tap Loot - V 1.1.3 / Build 24996315",
       "uris": [],
       "uploadDate": "2026-09-03T12:11:32Z",
@@ -11986,9 +12007,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tape-to-tape\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Tavern Keeper - V 0.79.7 / Build 25745702",
+      "title": "Tavern Keeper - V 0.79.10 / Build 25786215",
       "uris": [],
-      "uploadDate": "2026-10-06T08:18:25Z",
+      "uploadDate": "2026-10-08T08:40:13Z",
       "fileSize": "4.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tavern-keeper\">Website with instructions for launching the game</a>"
     },
@@ -12124,6 +12145,13 @@
       "uploadDate": "2026-03-30T08:42:16Z",
       "fileSize": "0.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/that-s-not-my-neighbor\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "The Adventures of Elliot: The Millennium Tales - Build 24232671",
+      "uris": [],
+      "uploadDate": "2026-10-08T01:32:41Z",
+      "fileSize": "15.8 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/the-adventures-of-elliot-the-millennium-tales\">Website with instructions for launching the game</a>"
     },
     {
       "title": "The Alters - V 2.2.1 / Build 10602756",
@@ -12455,9 +12483,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-killing-antidote\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "The King is Watching - V 1_3_6 / Build 24662341",
+      "title": "The King is Watching - V 1_3_7 / Build 24662341",
       "uris": [],
-      "uploadDate": "2026-09-28T08:35:32Z",
+      "uploadDate": "2026-10-08T08:11:18Z",
       "fileSize": "0.9 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-king-is-watching\">Website with instructions for launching the game</a>"
     },
@@ -12728,10 +12756,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-sapling\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "The Scroll of Taiwu : Beyond The Dome - V 1.1.27 / Build 23218978",
+      "title": "The Scroll of Taiwu : Beyond The Dome - V 1.1.29 / Build 23218978",
       "uris": [],
-      "uploadDate": "2026-10-03T09:22:37Z",
-      "fileSize": "17.3 GB",
+      "uploadDate": "2026-10-08T09:22:14Z",
+      "fileSize": "17.4 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-scroll-of-taiwu-beyond-the-dome\">Website with instructions for launching the game</a>"
     },
     {
@@ -13029,10 +13057,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tiny-bunny\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Tiny Eden - V 0.10.12+1731 / Build 24865609",
+      "title": "Tiny Eden - V 0.10.13+1764 / Build 25651540",
       "uris": [],
-      "uploadDate": "2026-09-29T10:12:52Z",
-      "fileSize": "3.1 GB",
+      "uploadDate": "2026-10-08T08:46:03Z",
+      "fileSize": "3.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tiny-eden\">Website with instructions for launching the game</a>"
     },
     {
@@ -13801,9 +13829,16 @@
     {
       "title": "Warhammer 40,000: Space Marine 2 - V 15.0 / Build 25096372",
       "uris": [],
-      "uploadDate": "2026-10-03T07:12:10Z",
+      "uploadDate": "2026-10-08T07:30:01Z",
       "fileSize": "80 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/warhammer-40-000-space-marine-2\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Warhammer 40,000: Space Marine - V 1.0.165 / Build 22579715",
+      "uris": [],
+      "uploadDate": "2026-10-08T00:00:00Z",
+      "fileSize": "10.6 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/warhammer-40000-space-marine\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Warlord: Awaji - Build 25654031",
@@ -13860,6 +13895,13 @@
       "uploadDate": "2026-09-25T09:41:27Z",
       "fileSize": "7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/waterpark-simulator\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Way of the Hunter 2 - Build 25630108",
+      "uris": [],
+      "uploadDate": "2026-10-08T06:06:12Z",
+      "fileSize": "29.9 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/way-of-the-hunter-2\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Wayfinder - V 211130 / Build 24965028",
@@ -14163,9 +14205,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/xcom-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Xenonauts 2 - V 7.27.11 / Build 3192355",
+      "title": "Xenonauts 2 - V 7.27.12 / Build 3192355",
       "uris": [],
-      "uploadDate": "2026-10-03T10:27:15Z",
+      "uploadDate": "2026-10-08T07:46:00Z",
       "fileSize": "6.0 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/xenonauts-2\">Website with instructions for launching the game</a>"
     },
