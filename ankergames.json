@@ -345,10 +345,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/alan-wake\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Alan Wake 2 - V 1.2.10 / Build 11636119",
+      "title": "Alan Wake 2 - V 1.2.11 / Build 11636119",
       "uris": [],
-      "uploadDate": "2026-08-19T19:41:04Z",
-      "fileSize": "99.3 GB",
+      "uploadDate": "2026-10-25T06:05:07Z",
+      "fileSize": "99.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/alan-wake-2\">Website with instructions for launching the game</a>"
     },
     {
@@ -6178,7 +6178,7 @@
     {
       "title": "Human Fall Flat - Build 26106005",
       "uris": [],
-      "uploadDate": "2026-10-24T07:20:17Z",
+      "uploadDate": "2026-10-25T06:25:20Z",
       "fileSize": "3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/human-fall-flat\">Website with instructions for launching the game</a>"
     },
@@ -8939,6 +8939,13 @@
       "uploadDate": "2026-06-01T08:34:32Z",
       "fileSize": "2.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/northend-tower-defense\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Northgard - V 4.3.29.43337 / Build 23250272",
+      "uris": [],
+      "uploadDate": "2026-10-25T06:25:02Z",
+      "fileSize": "2.5 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/northgard\">Website with instructions for launching the game</a>"
     },
     {
       "title": "Nova Roma - V 0.7.2963 / Build 25506897",
@@ -12301,6 +12308,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/sworn\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "System Shock - V 2.1.0 / Build 8972373",
+      "uris": [],
+      "uploadDate": "2026-10-25T00:30:00Z",
+      "fileSize": "2.8 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/system-shock\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Tabletop Simulator - V 14.2.1 / Build 22252224",
       "uris": [],
       "uploadDate": "2026-09-07T10:27:05Z",
@@ -12691,6 +12705,13 @@
       "uploadDate": "2026-08-15T01:00:00Z",
       "fileSize": "0.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-dark-rites-of-arkham\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "The Drifter - V 1.1.5 / Build 22645805",
+      "uris": [],
+      "uploadDate": "2026-10-25T00:00:00Z",
+      "fileSize": "0.6 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/the-drifter\">Website with instructions for launching the game</a>"
     },
     {
       "title": "The Elder Scrolls IV Oblivion GOTY - V 1.2.0416 CS / Build 4484113",
