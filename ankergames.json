@@ -541,9 +541,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/ark-survival-evolved\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Arma 3 - V 2.22.153995 / Build 24672225",
+      "title": "Arma 3 - V 2.22.154089 / Build 25623484",
       "uris": [],
-      "uploadDate": "2026-09-05T08:45:58Z",
+      "uploadDate": "2026-10-27T06:20:50Z",
       "fileSize": "160 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/arma-3\">Website with instructions for launching the game</a>"
     },
@@ -1901,7 +1901,7 @@
     {
       "title": "Car Dealer Simulator - V 0.1.0.0 5272 / Build 22160137",
       "uris": [],
-      "uploadDate": "2026-10-25T14:57:44Z",
+      "uploadDate": "2026-10-27T07:02:11Z",
       "fileSize": "19.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/car-dealer-simulator\">Website with instructions for launching the game</a>"
     },
@@ -2741,7 +2741,7 @@
     {
       "title": "Cyberpunk 2077 - V 2.5 Hotfix / Build 13542023",
       "uris": [],
-      "uploadDate": "2026-10-24T11:53:49Z",
+      "uploadDate": "2026-10-27T06:26:57Z",
       "fileSize": "72.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/cyberpunk-2077\">Website with instructions for launching the game</a>"
     },
@@ -3257,6 +3257,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dice-a-million\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Dicevaders - Build 25892943",
+      "uris": [],
+      "uploadDate": "2026-10-27T00:30:00Z",
+      "fileSize": "0.6 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/dicevaders\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Die in the Dungeon - V 5.2.0 / Build 1566280",
       "uris": [],
       "uploadDate": "2026-10-05T09:42:30Z",
@@ -3467,9 +3474,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/don-t-starve\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Don't Starve Together - V 759671 / Build 12527201",
+      "title": "Don't Starve Together - V 760178 / Build 12527201",
       "uris": [],
-      "uploadDate": "2026-10-23T07:47:38Z",
+      "uploadDate": "2026-10-27T07:33:11Z",
       "fileSize": "3.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/don-t-starve-together\">Website with instructions for launching the game</a>"
     },
@@ -3663,9 +3670,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dragons-dogma-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "DragonSword : Awakening - V 1.1.1 / Build 25959946",
+      "title": "DragonSword : Awakening - V 1.1.2 / Build 26210326",
       "uris": [],
-      "uploadDate": "2026-10-16T10:26:36Z",
+      "uploadDate": "2026-10-27T08:16:09Z",
       "fileSize": "16.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/dragonsword-awakening\">Website with instructions for launching the game</a>"
     },
@@ -3784,7 +3791,7 @@
     {
       "title": "Duelist: Idle Expedition - V 1.0.11 / Build 24996315",
       "uris": [],
-      "uploadDate": "2026-10-24T07:24:38Z",
+      "uploadDate": "2026-10-27T07:04:21Z",
       "fileSize": "0.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/duelist-idle-expedition\">Website with instructions for launching the game</a>"
     },
@@ -4363,10 +4370,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/far-cry-primal\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Far Far West - V 0.3.0.7 / Build 23250272",
+      "title": "Far Far West - V 0.3.0.7 / Build 26106988",
       "uris": [],
-      "uploadDate": "2026-10-23T19:55:09Z",
-      "fileSize": "4.7 GB",
+      "uploadDate": "2026-10-27T07:58:52Z",
+      "fileSize": "5.8 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/far-far-west\">Website with instructions for launching the game</a>"
     },
     {
@@ -5084,10 +5091,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/funko-fusion\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Funnel Runners - V 0.13.1 / Build 25191271",
+      "title": "Funnel Runners - V 0.14.1 / Build 25982825",
       "uris": [],
-      "uploadDate": "2026-10-19T15:37:18Z",
-      "fileSize": "4.7 GB",
+      "uploadDate": "2026-10-27T07:55:49Z",
+      "fileSize": "5.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/funnel-runners\">Website with instructions for launching the game</a>"
     },
     {
@@ -5343,10 +5350,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/god-of-weapons\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Going Medieval - V 1.2.13 / Build 25506897",
+      "title": "Going Medieval - V 1.2.14 / Build 25506897",
       "uris": [],
-      "uploadDate": "2026-10-17T08:00:46Z",
-      "fileSize": "0.7 GB",
+      "uploadDate": "2026-10-27T07:36:31Z",
+      "fileSize": "0.6 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/going-medieval\">Website with instructions for launching the game</a>"
     },
     {
@@ -5399,10 +5406,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/goodnight-universe\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "GoreBox - V 1.16.5.2 / Build 25144234",
+      "title": "GoreBox - V 2.0.0.2 / Build 26171342",
       "uris": [],
-      "uploadDate": "2026-09-09T08:01:30Z",
-      "fileSize": "1.1 GB",
+      "uploadDate": "2026-10-27T07:31:07Z",
+      "fileSize": "1.3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/gorebox\">Website with instructions for launching the game</a>"
     },
     {
@@ -5602,9 +5609,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/grounded-2\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Groundwork Simulator - V 0.1.2.1 / Build 25982825",
+      "title": "Groundwork Simulator - V 0.1.2.1 / Build 26203509",
       "uris": [],
-      "uploadDate": "2026-10-26T08:02:13Z",
+      "uploadDate": "2026-10-27T07:30:50Z",
       "fileSize": "7.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/groundwork-simulator\">Website with instructions for launching the game</a>"
     },
@@ -5742,9 +5749,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/halloween-the-game\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Halls of Torment - Build 26163153",
+      "title": "Halls of Torment - Build 26221051",
       "uris": [],
-      "uploadDate": "2026-10-24T08:41:57Z",
+      "uploadDate": "2026-10-27T08:04:38Z",
       "fileSize": "1.0 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/halls-of-torment\">Website with instructions for launching the game</a>"
     },
@@ -6330,10 +6337,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/immortals-of-aveum\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "In Falsus - V 1.0.7 / Build 8245592",
+      "title": "In Falsus - V 1.0.7b / Build 8245592",
       "uris": [],
-      "uploadDate": "2026-10-23T06:46:22Z",
-      "fileSize": "6.1 GB",
+      "uploadDate": "2026-10-27T07:59:38Z",
+      "fileSize": "6 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/in-falsus\">Website with instructions for launching the game</a>"
     },
     {
@@ -7464,10 +7471,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/lossless-scaling\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Lost and Found Co. - V 1.2.1a / Build 20766191",
+      "title": "Lost and Found Co. - V 1.2.2 / Build 20766191",
       "uris": [],
-      "uploadDate": "2026-10-10T10:30:39Z",
-      "fileSize": "2 GB",
+      "uploadDate": "2026-10-27T07:40:37Z",
+      "fileSize": "1.9 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/lost-and-found-co\">Website with instructions for launching the game</a>"
     },
     {
@@ -7674,9 +7681,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/magicraft\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Maid Cafe Simulator - V 1.21.06 / Build 11420760",
+      "title": "Maid Cafe Simulator - V 1.21.12 / Build 11420760",
       "uris": [],
-      "uploadDate": "2026-10-24T08:56:21Z",
+      "uploadDate": "2026-10-27T08:07:49Z",
       "fileSize": "2.7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/maid-cafe-simulator\">Website with instructions for launching the game</a>"
     },
@@ -8934,6 +8941,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/noreya-the-gold-project\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Normal Golf Game - Build 26065407",
+      "uris": [],
+      "uploadDate": "2026-10-27T07:30:57Z",
+      "fileSize": "0.4 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/normal-golf-game\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "NORSE: Oath of Blood - V 1.0.7.7 / Build 25134257",
       "uris": [],
       "uploadDate": "2026-09-04T09:10:43Z",
@@ -9963,10 +9977,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/quantum-break\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Quarantine Zone: The Last Check - V 2.0.2.2586 / Build 25664742",
+      "title": "Quarantine Zone: The Last Check - V 2.0.3.2615 / Build 25664742",
       "uris": [],
-      "uploadDate": "2026-10-21T08:38:34Z",
-      "fileSize": "16.3 GB",
+      "uploadDate": "2026-10-27T06:55:25Z",
+      "fileSize": "16.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/quarantine-zone-the-last-check\">Website with instructions for launching the game</a>"
     },
     {
@@ -10614,10 +10628,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/ruins-of-dawn\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Rune Dice - V 1.3.1 / Build 1566280",
+      "title": "Rune Dice - V 1.3.2 / Build 24950284",
       "uris": [],
-      "uploadDate": "2026-10-14T10:24:52Z",
-      "fileSize": "0.3 GB",
+      "uploadDate": "2026-10-27T07:34:39Z",
+      "fileSize": "0.1 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/rune-dice\">Website with instructions for launching the game</a>"
     },
     {
@@ -11370,10 +11384,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/son-and-bone\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Songs of Glimmerwick - V 1.08b / Build 26167052",
+      "title": "Songs of Glimmerwick - V 1.08b / Build 26235618",
       "uris": [],
-      "uploadDate": "2026-10-24T07:47:37Z",
-      "fileSize": "1.4 GB",
+      "uploadDate": "2026-10-27T07:47:48Z",
+      "fileSize": "1.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/songs-of-glimmerwick\">Website with instructions for launching the game</a>"
     },
     {
@@ -11456,7 +11470,7 @@
     {
       "title": "Sons Of The Forest - V 53951 / Build 20229486",
       "uris": [],
-      "uploadDate": "2026-09-05T10:12:09Z",
+      "uploadDate": "2026-10-27T02:08:52Z",
       "fileSize": "11.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/sons-of-the-forest\">Website with instructions for launching the game</a>"
     },
@@ -12593,6 +12607,13 @@
       "uploadDate": "2026-04-03T06:26:44Z",
       "fileSize": "7.7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-amazing-spider-man-2\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "The Ascent - V 72946 / Build 26120147",
+      "uris": [],
+      "uploadDate": "2026-10-27T07:30:30Z",
+      "fileSize": "19.3 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/the-ascent\">Website with instructions for launching the game</a>"
     },
     {
       "title": "The Battle of Polytopia - Build 24950284",
@@ -13743,6 +13764,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/totally-accurate-battlegrounds\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Totally Reliable Delivery Service - V 2.03.30 / Build 21719728",
+      "uris": [],
+      "uploadDate": "2026-10-27T01:00:00Z",
+      "fileSize": "1.3 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/totally-reliable-delivery-service\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Touhou Koumakyou: New Classic - the Embodiment of Scarlet Devil - Build 25306795",
       "uris": [],
       "uploadDate": "2026-09-25T07:37:00Z",
@@ -14429,9 +14457,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/we-were-here-forever\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "We Were Here Tomorrow - V 1.1.1 / Build 17195680",
+      "title": "We Were Here Tomorrow - V 1.1.2 / Build 17195680",
       "uris": [],
-      "uploadDate": "2026-10-23T05:24:21Z",
+      "uploadDate": "2026-10-27T06:27:37Z",
       "fileSize": "10.5 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/we-were-here-tomorrow\">Website with instructions for launching the game</a>"
     },
@@ -14513,10 +14541,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/whisper-of-the-house\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "White Knuckle - V 0.61f / Build 12439138",
+      "title": "White Knuckle - V 0.62a / Build 12439138",
       "uris": [],
-      "uploadDate": "2026-10-15T08:14:43Z",
-      "fileSize": "3.3 GB",
+      "uploadDate": "2026-10-27T06:41:56Z",
+      "fileSize": "3.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/white-knuckle\">Website with instructions for launching the game</a>"
     },
     {
