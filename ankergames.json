@@ -121,10 +121,10 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/a-hat-in-time\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "A Little to the Left - V 3.7.3 / Build 23757919",
+      "title": "A Little to the Left - V 3.7.5 / Build 23757919",
       "uris": [],
-      "uploadDate": "2026-11-10T09:12:58Z",
-      "fileSize": "3 GB",
+      "uploadDate": "2026-11-23T11:45:54Z",
+      "fileSize": "3.0 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/a-little-to-the-left\">Website with instructions for launching the game</a>"
     },
     {
@@ -3355,6 +3355,13 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/desktop-explorer\">Website with instructions for launching the game</a>"
     },
     {
+      "title": "Desperados III - V 1.5.8.r36101.F / Build 558266",
+      "uris": [],
+      "uploadDate": "2026-11-24T01:30:00Z",
+      "fileSize": "12.2 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/desperados-iii\">Website with instructions for launching the game</a>"
+    },
+    {
       "title": "Destroy All Humans! - V 1.0.2550 / Build 12597329",
       "uris": [],
       "uploadDate": "2026-11-14T10:31:13Z",
@@ -5266,9 +5273,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/forspoken\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "Forts - V 1.39.0 r22745 / Build 21719728",
+      "title": "Forts - V 1.39.0.2 r22875 / Build 21719728",
       "uris": [],
-      "uploadDate": "2026-10-26T08:39:03Z",
+      "uploadDate": "2026-11-23T11:29:53Z",
       "fileSize": "3 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/forts\">Website with instructions for launching the game</a>"
     },
@@ -5721,9 +5728,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/golftopia\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "GONE Fishing - V 1.2.1 / Build 26575272",
+      "title": "GONE Fishing - Build 26855621",
       "uris": [],
-      "uploadDate": "2026-11-12T11:54:49Z",
+      "uploadDate": "2026-11-23T11:36:22Z",
       "fileSize": "5.2 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/gone-fishing\">Website with instructions for launching the game</a>"
     },
@@ -5814,7 +5821,7 @@
     {
       "title": "Grand Theft Auto V - V 3889.0 Online 1.73 / Build 252033",
       "uris": [],
-      "uploadDate": "2026-11-23T06:47:25Z",
+      "uploadDate": "2026-11-23T12:10:25Z",
       "fileSize": "118 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/grand-theft-auto-v\">Website with instructions for launching the game</a>"
     },
@@ -7392,6 +7399,13 @@
       "uploadDate": "2026-10-27T11:49:03Z",
       "fileSize": "11.7 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/labyrinthine\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "Lake - Build 26129877",
+      "uris": [],
+      "uploadDate": "2026-11-24T01:00:00Z",
+      "fileSize": "1.3 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/lake\">Website with instructions for launching the game</a>"
     },
     {
       "title": "LANESPLIT - Build 26571797",
@@ -13092,9 +13106,9 @@
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tekken-7\">Website with instructions for launching the game</a>"
     },
     {
-      "title": "TEKKEN 8 - V 3.03.01 / Build 12823607",
+      "title": "TEKKEN 8 - V 3.03.02 / Build 12823607",
       "uris": [],
-      "uploadDate": "2026-11-14T08:57:41Z",
+      "uploadDate": "2026-11-23T16:30:41Z",
       "fileSize": "117 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/tekken-8\">Website with instructions for launching the game</a>"
     },
@@ -13643,6 +13657,13 @@
       "uploadDate": "2026-11-10T08:43:24Z",
       "fileSize": "19.9 GB",
       "descriptionHtml": "<a href=\"https://ankergames.net/game/the-legend-of-khiimori\">Website with instructions for launching the game</a>"
+    },
+    {
+      "title": "The LEGO Movie - Videogame - Build 394342",
+      "uris": [],
+      "uploadDate": "2026-11-24T02:00:00Z",
+      "fileSize": "7 GB",
+      "descriptionHtml": "<a href=\"https://ankergames.net/game/the-lego-movie-videogame\">Website with instructions for launching the game</a>"
     },
     {
       "title": "The LEGO NINJAGO Movie Video Game - Build 2290182",
